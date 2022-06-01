@@ -5,6 +5,5 @@
   "implementationOverride": "com.udacity.webcrawler.SequentialWebCrawler",
   "maxDepth": 2,
   "timeoutSeconds": 1,
-  "popularWordCount": 5,
-  "resultPath": "crawlResults.json"
+  "popularWordCount": 5
 }
