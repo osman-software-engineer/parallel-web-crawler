@@ -1,0 +1,16 @@
+com\udacity\webcrawler\SequentialWebCrawlerTest.class
+com\udacity\webcrawler\NoOpProfiler.class
+com\udacity\webcrawler\profiler\ProfilerImplTest$ProfiledInterface.class
+com\udacity\webcrawler\testing\CloseableStringWriter.class
+com\udacity\webcrawler\json\ConfigurationLoaderTest.class
+com\udacity\webcrawler\profiler\ProfilerImplTest$NonProfiledInterface.class
+com\udacity\webcrawler\WordCountsTest.class
+com\udacity\webcrawler\ParallelWebCrawlerTest.class
+com\udacity\webcrawler\NoOpProfilerModule.class
+com\udacity\webcrawler\profiler\FakeClock.class
+com\udacity\webcrawler\WebCrawlerTest.class
+com\udacity\webcrawler\profiler\ProfilerImplTest.class
+com\udacity\webcrawler\parser\PageParserImplTest.class
+com\udacity\webcrawler\profiler\ProfilerImplTest$NonProfiledInterfaceImpl.class
+com\udacity\webcrawler\profiler\ProfilerImplTest$ProfiledInterfaceImpl.class
+com\udacity\webcrawler\json\CrawlResultWriterTest.class
